@@ -1,7 +1,3 @@
-
-
-cozmo sdk animation groups
-this is for the animation groups, the easiest way to test them is in the code lab: 
 AcknowledgeFaceInitPause
 AcknowledgeFaceNamed  
 AcknowledgeFaceUnnamed
